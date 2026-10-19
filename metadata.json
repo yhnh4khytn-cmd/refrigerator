@@ -1,0 +1,10 @@
+{
+  "name": "FridgeChef 冰箱剩食食譜助手",
+  "description": "拍一張冰箱照片，30 秒內自動辨識食材、盤點庫存，並根據現有設備與偏好生成美味剩食食譜，煮完一鍵扣庫存。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
